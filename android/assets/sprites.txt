@@ -1,0 +1,26 @@
+sprites.png
+size: 984, 352
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+algo1
+  rotate: false
+  xy: 0, 0
+  size: 427, 312
+  orig: 427, 312
+  offset: 0, 0
+  index: -1
+algo2
+  rotate: false
+  xy: 427, 0
+  size: 125, 151
+  orig: 125, 151
+  offset: 0, 0
+  index: -1
+algo3
+  rotate: false
+  xy: 552, 0
+  size: 432, 352
+  orig: 432, 352
+  offset: 0, 0
+  index: -1
